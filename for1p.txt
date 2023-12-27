@@ -1,0 +1,36 @@
+What is front-end development?
+You can categorize website development into two areas: front end and back end. The front end is what you see on the screen — menus, graphics, and other features. You’ll also see the front end called client-side because that’s who is interacting with it. Front-end developers are primarily responsible for the site’s appearance.
+
+Back-end developers work behind the scenes on the server-side of a website. They use various programming languages to make things happen, whether it’s going to a thank-you webpage for signing up for a newsletter or adding contact information to a database. Their work focuses on a site’s functionality.
+
+A full-stack developer is a jack of all trades. They can work both ends of web development, with proficiency in a wide range of programming languages. As you may expect, most of the people working with application programming interfaces (APIs) work in this role. All three types of developers work with the user experience but use different programming languages.
+
+Front-end web development languages
+A front-end developer uses code that affects how a website looks and how a user interacts with its webpages. That includes simple elements such as buttons that take a visitor to different places within the website, as well as input methods, like a contact form. The programming languages that a front-end developer uses can create a static webpage or a dynamic one. Programming languages they use include:
+
+HTML
+CSS
+jQuery
+JavaScript
+HyperText Markup Language (HTML)
+The foundation of all web development starts with HyperText Markup Language (HTML). It uses a standardized system of markup or tags that provides the recipe for how text, images, and other elements will appear on a webpage.
+
+British physicist Tim Berners-Lee created the first rendition of it in 1991. The Web Hypertext Application Technology Working Group manages the current version, the HTML Living Standard. It’s built on HTML5, the fifth version of the markup language, to provide a better user interface with multimedia.
+
+The language is easy to learn. HTML uses unpaired and paired tags to render objects using a Document Object Model interface. Essentially, it creates a cohesive structure for HTML documents to create individual webpages. The syntax is critical so that the visual content will display correctly. The World Wide Web Consortium website provides a handy cheat sheet that explains how to use the various tags.
+
+For example, if you wanted to create a page with a heading and text, you could enter your text as follows after declaring that it’s an HTML document:
+
+
+<!DOCTYPE html>
+<html>         
+<head>                   
+<title>My Story</title>
+</head>
+<body>                                       
+<h1>My Heading</h1>                                               
+<p>This is my text.</p>                              
+</body>
+</html>
+
+A hierarchy exists within these nested tags. Developers often find it helpful to indent lines to keep track of the tags to make sure they close them correctly. What You See Is What You Get editors simplify the task so that you can build a website without knowing any code. However, it’s still essential to learn HTML for debugging.
